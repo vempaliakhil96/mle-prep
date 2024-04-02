@@ -7,3 +7,6 @@ website:
           - section: heaps
             contents:
               - coding-problems/heaps/lc-502-ipo.ipynb
+      - section: misc
+        contents:
+          - misc/resources.ipynb

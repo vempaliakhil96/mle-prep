@@ -2,6 +2,17 @@ repos:
 - repo: https://github.com/fastai/nbdev
   rev: 2.2.10
   hooks:
-  - id: nbdev_readme
-  - id: nbdev_sidebar
   - id: nbdev_clean
+- repo: local
+  hooks:
+    - id: nbdev_readme
+      name: nbdev readme
+      entry: nbdev_readme
+      language: system
+      pass_filenames: false
+    - id: nbdev_sidebar
+      name: nbdev sidebar
+      entry: nbdev_sidebar
+      language: system
+      always_run: true
+      pass_filenames: false
