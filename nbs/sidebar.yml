@@ -2,3 +2,8 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - section: coding-problems
+        contents:
+          - section: heaps
+            contents:
+              - coding-problems/heaps/lc-502-ipo.ipynb
