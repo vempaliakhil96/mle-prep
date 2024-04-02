@@ -5,4 +5,4 @@ d = { 'settings': { 'branch': 'main',
                 'doc_host': 'https://vempaliakhil96.github.io',
                 'git_url': 'https://github.com/vempaliakhil96/mle-prep',
                 'lib_path': 'mle_prep'},
-  'syms': {'mle_prep.core': {'mle_prep.core.foo': ('core.html#foo', 'mle_prep/core.py')}}}
+  'syms': {}}
