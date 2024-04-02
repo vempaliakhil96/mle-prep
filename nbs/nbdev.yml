@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "mle-prep"
+  site-url: "https://vempaliakhil96.github.io/mle-prep"
+  description: "This is where I log all my learnings for MLE interview prep"
+  repo-branch: main
+  repo-url: "https://github.com/vempaliakhil96/mle-prep"
