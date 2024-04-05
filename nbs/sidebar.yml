@@ -7,6 +7,9 @@ website:
           - section: heaps
             contents:
               - coding-problems/heaps/lc-502-ipo.ipynb
+          - section: math
+            contents:
+              - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
       - section: misc
         contents:
           - misc/ml-metrics.ipynb
