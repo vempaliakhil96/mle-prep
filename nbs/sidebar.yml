@@ -4,6 +4,9 @@ website:
       - index.ipynb
       - section: coding-problems
         contents:
+          - section: graphs
+            contents:
+              - coding-problems/graphs/lc-210-course-schedule-2.ipynb
           - section: heaps
             contents:
               - coding-problems/heaps/lc-502-ipo.ipynb
