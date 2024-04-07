@@ -12,6 +12,7 @@ website:
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
           - section: heaps
             contents:
+              - coding-problems/heaps/lc-215-kth-largest-element-in-array.ipynb
               - coding-problems/heaps/lc-502-ipo.ipynb
           - section: math
             contents:
