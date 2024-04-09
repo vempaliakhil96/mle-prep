@@ -7,6 +7,7 @@ website:
           - section: arrays
             contents:
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
+              - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
           - section: graphs
             contents:
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
