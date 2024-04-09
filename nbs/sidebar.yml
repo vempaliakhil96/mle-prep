@@ -11,6 +11,7 @@ website:
           - section: graphs
             contents:
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
+              - coding-problems/graphs/lc-909-snakes-and-ladders.ipynb
           - section: heaps
             contents:
               - coding-problems/heaps/lc-215-kth-largest-element-in-array.ipynb
