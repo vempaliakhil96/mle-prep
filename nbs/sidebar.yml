@@ -26,3 +26,6 @@ website:
           - misc/ml-metrics.ipynb
           - misc/product-sense-case-study-framework.ipynb
           - misc/resources.ipynb
+      - section: ml-system-design
+        contents:
+          - ml-system-design/ml-system-design-overview.ipynb

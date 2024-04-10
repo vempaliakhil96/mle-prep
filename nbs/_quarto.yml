@@ -16,5 +16,9 @@ website:
     search: true
   sidebar:
     style: floating
+  
+comments:
+  giscus: 
+    repo: quarto-dev/quarto-docs
 
 metadata-files: [nbdev.yml, sidebar.yml]
