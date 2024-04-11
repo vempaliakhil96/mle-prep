@@ -8,6 +8,9 @@ website:
             contents:
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
+          - section: dps
+            contents:
+              - coding-problems/dps/lc-139-word-break.ipynb
           - section: graphs
             contents:
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
