@@ -24,6 +24,7 @@ website:
               - coding-problems/heaps/lc-502-ipo.ipynb
           - section: math
             contents:
+              - coding-problems/math/lc-136-single-number.ipynb
               - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
               - coding-problems/math/lc-50-pow.ipynb
       - section: misc
