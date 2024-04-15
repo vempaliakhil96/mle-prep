@@ -13,6 +13,7 @@ website:
               - coding-problems/dps/lc-139-word-break.ipynb
           - section: graphs
             contents:
+              - coding-problems/graphs/lc-127-word-ladder.ipynb
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
               - coding-problems/graphs/lc-433-minimum-genetic-mutation.ipynb
               - coding-problems/graphs/lc-909-snakes-and-ladders.ipynb
