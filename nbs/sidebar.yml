@@ -29,9 +29,10 @@ website:
               - coding-problems/math/lc-50-pow.ipynb
       - section: misc
         contents:
-          - misc/ml-metrics.ipynb
+          - misc/behavioral-questions.ipynb
           - misc/product-sense-case-study-framework.ipynb
           - misc/resources.ipynb
       - section: ml-system-design
         contents:
+          - ml-system-design/ml-metrics.ipynb
           - ml-system-design/ml-system-design-overview.ipynb
