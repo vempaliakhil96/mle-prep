@@ -35,5 +35,6 @@ website:
           - misc/resources.ipynb
       - section: ml-system-design
         contents:
+          - ml-system-design/basics.ipynb
           - ml-system-design/ml-metrics.ipynb
           - ml-system-design/ml-system-design-overview.ipynb
