@@ -6,6 +6,7 @@ website:
         contents:
           - section: arrays
             contents:
+              - coding-problems/arrays/lc-135-candy.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
           - section: dps
