@@ -28,6 +28,9 @@ website:
               - coding-problems/math/lc-136-single-number.ipynb
               - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
               - coding-problems/math/lc-50-pow.ipynb
+      - section: fastai
+        contents:
+          - fastai/lecture-1.ipynb
       - section: misc
         contents:
           - misc/behavioral-questions.ipynb
