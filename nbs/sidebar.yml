@@ -2,6 +2,10 @@ website:
   sidebar:
     contents:
       - index.ipynb
+      - section: basics
+        contents:
+          - basics/ml-models.ipynb
+          - basics/overfitting.ipynb
       - section: coding-problems
         contents:
           - section: arrays
@@ -45,6 +49,5 @@ website:
           - misc/resources.ipynb
       - section: ml-system-design
         contents:
-          - ml-system-design/basics.ipynb
           - ml-system-design/ml-metrics.ipynb
           - ml-system-design/ml-system-design-overview.ipynb
