@@ -49,5 +49,6 @@ website:
           - misc/resources.ipynb
       - section: ml-system-design
         contents:
+          - ml-system-design/estimation-helpers.ipynb
           - ml-system-design/ml-metrics.ipynb
           - ml-system-design/ml-system-design-overview.ipynb
