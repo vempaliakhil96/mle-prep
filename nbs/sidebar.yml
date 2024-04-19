@@ -17,6 +17,7 @@ website:
           - section: dps
             contents:
               - coding-problems/dps/lc-139-word-break.ipynb
+              - coding-problems/dps/lc-322-coin-change.ipynb
           - section: dynamic-programming
             contents:
               - coding-problems/dynamic-programming/lc-120-triangle.ipynb
