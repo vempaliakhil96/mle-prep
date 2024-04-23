@@ -26,6 +26,7 @@ website:
               - coding-problems/graphs/lc-133-clone-graph.ipynb
               - coding-problems/graphs/lc-208-implement-trie-prefix-tree.ipynb
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
+              - coding-problems/graphs/lc-211-design-add-and-search-words-data-structure.ipynb
               - coding-problems/graphs/lc-433-minimum-genetic-mutation.ipynb
               - coding-problems/graphs/lc-909-snakes-and-ladders.ipynb
           - section: heaps
