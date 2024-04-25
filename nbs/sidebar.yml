@@ -18,6 +18,7 @@ website:
             contents:
               - coding-problems/dynamic-programming/lc-120-triangle.ipynb
               - coding-problems/dynamic-programming/lc-139-word-break.ipynb
+              - coding-problems/dynamic-programming/lc-2370-longest-ideal-subsequence.ipynb
               - coding-problems/dynamic-programming/lc-300-longest-increasing-subsequence.ipynb
               - coding-problems/dynamic-programming/lc-322-coin-change.ipynb
           - section: graphs
