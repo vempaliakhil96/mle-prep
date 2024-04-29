@@ -12,6 +12,7 @@ website:
             contents:
               - coding-problems/arrays/lc-135-candy.ipynb
               - coding-problems/arrays/lc-153-find-minimum-in-rotated-sorted-array.ipynb
+              - coding-problems/arrays/lc-4-median-of-two-sorted-arrays.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
               - coding-problems/arrays/lc-74-search-a-2d-matrix.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
@@ -49,6 +50,7 @@ website:
       - section: fastai
         contents:
           - fastai/lecture-1.ipynb
+          - fastai/lecture-2.ipynb
       - section: misc
         contents:
           - misc/behavioral-questions.ipynb
