@@ -54,6 +54,9 @@ website:
         contents:
           - fastai/lecture-1.ipynb
           - fastai/lecture-2.ipynb
+      - section: makemore
+        contents:
+          - makemore/bigram.ipynb
       - section: misc
         contents:
           - misc/behavioral-questions.ipynb
