@@ -56,6 +56,7 @@ website:
       - section: misc
         contents:
           - misc/behavioral-questions.ipynb
+          - misc/dictionary-learning.ipynb
           - misc/experience-notes.ipynb
           - misc/product-sense-case-study-framework.ipynb
           - misc/resources.ipynb
