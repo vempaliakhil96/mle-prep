@@ -48,6 +48,7 @@ website:
               - coding-problems/math/lc-137-single-number-ii.ipynb
               - coding-problems/math/lc-149-max-points-on-a-line.ipynb
               - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
+              - coding-problems/math/lc-201-bitwise-and-of-numbers-range.ipynb
               - coding-problems/math/lc-50-pow.ipynb
       - section: fastai
         contents:
