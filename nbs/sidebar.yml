@@ -18,6 +18,7 @@ website:
               - coding-problems/arrays/lc-4-median-of-two-sorted-arrays.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
               - coding-problems/arrays/lc-74-search-a-2d-matrix.ipynb
+              - coding-problems/arrays/lc-881-boats-to-save-people.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
           - section: dynamic-programming
             contents:
