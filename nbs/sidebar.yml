@@ -18,6 +18,7 @@ website:
               - coding-problems/arrays/lc-4-median-of-two-sorted-arrays.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
               - coding-problems/arrays/lc-74-search-a-2d-matrix.ipynb
+              - coding-problems/arrays/lc-857-minimum-cost-to-hire-k-workers.ipynb
               - coding-problems/arrays/lc-881-boats-to-save-people.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
           - section: dynamic-programming
@@ -57,6 +58,9 @@ website:
               - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
               - coding-problems/math/lc-201-bitwise-and-of-numbers-range.ipynb
               - coding-problems/math/lc-50-pow.ipynb
+          - section: strings
+            contents:
+              - coding-problems/strings/Z-alogrithm.ipynb
       - section: fastai
         contents:
           - fastai/lecture-1.ipynb
