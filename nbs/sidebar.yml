@@ -36,6 +36,7 @@ website:
             contents:
               - coding-problems/graphs/lc-127-word-ladder.ipynb
               - coding-problems/graphs/lc-133-clone-graph.ipynb
+              - coding-problems/graphs/lc-1584-min-cost-to-connect-all-points.ipynb
               - coding-problems/graphs/lc-208-implement-trie-prefix-tree.ipynb
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
               - coding-problems/graphs/lc-211-design-add-and-search-words-data-structure.ipynb
