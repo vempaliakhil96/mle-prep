@@ -59,6 +59,7 @@ website:
               - coding-problems/math/lc-172-factorial-trailing-zeros.ipynb
               - coding-problems/math/lc-201-bitwise-and-of-numbers-range.ipynb
               - coding-problems/math/lc-50-pow.ipynb
+              - coding-problems/math/lc-861-score-after-flipping-matrix.ipynb
           - section: strings
             contents:
               - coding-problems/strings/Z-alogrithm.ipynb
