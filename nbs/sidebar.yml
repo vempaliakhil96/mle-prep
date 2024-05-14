@@ -15,6 +15,7 @@ website:
               - coding-problems/arrays/lc-1004-max-consecutive-ones-iii.ipynb
               - coding-problems/arrays/lc-135-candy.ipynb
               - coding-problems/arrays/lc-1482-min-days-to-bloom.ipynb
+              - coding-problems/arrays/lc-1493-longest-subarray-of-1s-after-deleting-one-element.ipynb
               - coding-problems/arrays/lc-153-find-minimum-in-rotated-sorted-array.ipynb
               - coding-problems/arrays/lc-4-median-of-two-sorted-arrays.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
