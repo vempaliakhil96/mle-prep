@@ -43,6 +43,7 @@ website:
               - coding-problems/graphs/lc-210-course-schedule-2.ipynb
               - coding-problems/graphs/lc-211-design-add-and-search-words-data-structure.ipynb
               - coding-problems/graphs/lc-212-word-search-ii.ipynb
+              - coding-problems/graphs/lc-2812-find-the-safest-path-in-a-grid.ipynb
               - coding-problems/graphs/lc-427-construct-quad-tree.ipynb
               - coding-problems/graphs/lc-433-minimum-genetic-mutation.ipynb
               - coding-problems/graphs/lc-909-snakes-and-ladders.ipynb
