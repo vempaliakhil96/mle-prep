@@ -23,6 +23,9 @@ website:
               - coding-problems/arrays/lc-857-minimum-cost-to-hire-k-workers.ipynb
               - coding-problems/arrays/lc-881-boats-to-save-people.ipynb
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
+          - section: backtracking
+            contents:
+              - coding-problems/backtracking/lc-51-n-queens.ipynb
           - section: dynamic-programming
             contents:
               - coding-problems/dynamic-programming/lc-120-triangle.ipynb
