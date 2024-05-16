@@ -72,6 +72,7 @@ website:
           - section: trees
             contents:
               - coding-problems/trees/lc-236-lowest-common-ancestor-of-a-binary-tree.ipynb
+              - coding-problems/trees/lc-437-path-sum-iii.ipynb
       - section: fastai
         contents:
           - fastai/lecture-1.ipynb
