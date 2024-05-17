@@ -71,6 +71,7 @@ website:
               - coding-problems/strings/Z-alogrithm.ipynb
           - section: trees
             contents:
+              - coding-problems/trees/lc-1372-longest-zigzag-path-in-a-binary-tree.ipynb
               - coding-problems/trees/lc-236-lowest-common-ancestor-of-a-binary-tree.ipynb
               - coding-problems/trees/lc-437-path-sum-iii.ipynb
       - section: fastai
