@@ -69,6 +69,9 @@ website:
               - coding-problems/math/lc-201-bitwise-and-of-numbers-range.ipynb
               - coding-problems/math/lc-50-pow.ipynb
               - coding-problems/math/lc-861-score-after-flipping-matrix.ipynb
+          - section: queues
+            contents:
+              - coding-problems/queues/lc-649-dota2-senate.ipynb
           - section: strings
             contents:
               - coding-problems/strings/Z-alogrithm.ipynb
