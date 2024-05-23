@@ -37,6 +37,7 @@ website:
               - coding-problems/dynamic-programming/lc-322-coin-change.ipynb
               - coding-problems/dynamic-programming/lc-63-unique-paths-ii.ipynb
               - coding-problems/dynamic-programming/lc-72-edit-distance.ipynb
+              - coding-problems/dynamic-programming/lc-790-domino-and-tromino-tiling.ipynb
               - coding-problems/dynamic-programming/lc-97-interleaving-string.ipynb
           - section: graphs
             contents:
