@@ -13,6 +13,7 @@ website:
             contents:
               - coding-problems/arrays/binary-search-types.ipynb
               - coding-problems/arrays/lc-1004-max-consecutive-ones-iii.ipynb
+              - coding-problems/arrays/lc-11-container-with-most-water.ipynb
               - coding-problems/arrays/lc-135-candy.ipynb
               - coding-problems/arrays/lc-142-linked-list-cycle-ii.ipynb
               - coding-problems/arrays/lc-1482-min-days-to-bloom.ipynb
