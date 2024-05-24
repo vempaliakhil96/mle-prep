@@ -27,6 +27,7 @@ website:
               - coding-problems/arrays/lc-918-max-sum-circular-subarry.ipynb
           - section: backtracking
             contents:
+              - coding-problems/backtracking/lc-1255-maximum-score-words-formed-by-letters.ipynb
               - coding-problems/backtracking/lc-51-n-queens.ipynb
           - section: dynamic-programming
             contents:
