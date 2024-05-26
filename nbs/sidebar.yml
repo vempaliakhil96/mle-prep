@@ -38,6 +38,7 @@ website:
               - coding-problems/dynamic-programming/lc-2370-longest-ideal-subsequence.ipynb
               - coding-problems/dynamic-programming/lc-300-longest-increasing-subsequence.ipynb
               - coding-problems/dynamic-programming/lc-322-coin-change.ipynb
+              - coding-problems/dynamic-programming/lc-552-student-attendance-record-ii.ipynb
               - coding-problems/dynamic-programming/lc-63-unique-paths-ii.ipynb
               - coding-problems/dynamic-programming/lc-72-edit-distance.ipynb
               - coding-problems/dynamic-programming/lc-790-domino-and-tromino-tiling.ipynb
