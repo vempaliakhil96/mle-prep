@@ -5,7 +5,9 @@ website:
       - section: basics
         contents:
           - basics/ml-models.ipynb
+          - basics/nli-based-models.ipynb
           - basics/overfitting.ipynb
+          - basics/sentence-encoder-models.ipynb
           - basics/time-complexity-analysis.ipynb
       - section: coding-problems
         contents:
