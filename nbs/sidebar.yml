@@ -4,6 +4,7 @@ website:
       - index.ipynb
       - section: basics
         contents:
+          - basics/embeddings.ipynb
           - basics/ml-models.ipynb
           - basics/nli-based-models.ipynb
           - basics/overfitting.ipynb
@@ -103,7 +104,6 @@ website:
           - misc/resources.ipynb
       - section: ml-system-design
         contents:
-          - ml-system-design/embeddings.ipynb
           - ml-system-design/estimation-helpers.ipynb
           - ml-system-design/ml-metrics.ipynb
           - ml-system-design/ml-system-design-overview.ipynb
