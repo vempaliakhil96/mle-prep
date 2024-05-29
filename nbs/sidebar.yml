@@ -7,6 +7,7 @@ website:
           - basics/embeddings.ipynb
           - basics/ml-models.ipynb
           - basics/nli-based-models.ipynb
+          - basics/optimizers.ipynb
           - basics/overfitting.ipynb
           - basics/sentence-encoder-models.ipynb
           - basics/time-complexity-analysis.ipynb
