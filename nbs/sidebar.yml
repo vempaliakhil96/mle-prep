@@ -84,6 +84,7 @@ website:
           - section: strings
             contents:
               - coding-problems/strings/Z-alogrithm.ipynb
+              - coding-problems/strings/lc-438-find-all-anagrams-in-a-string.ipynb
           - section: trees
             contents:
               - coding-problems/trees/lc-101-symmetric-tree.ipynb
