@@ -26,6 +26,7 @@ website:
               - coding-problems/arrays/lc-33-search-in-rotated-sorted-array.ipynb
               - coding-problems/arrays/lc-4-median-of-two-sorted-arrays.ipynb
               - coding-problems/arrays/lc-53-max-subarrays.ipynb
+              - coding-problems/arrays/lc-739-daily-temperature.ipynb
               - coding-problems/arrays/lc-74-search-a-2d-matrix.ipynb
               - coding-problems/arrays/lc-857-minimum-cost-to-hire-k-workers.ipynb
               - coding-problems/arrays/lc-875-koko-eating-bananas.ipynb
@@ -102,6 +103,7 @@ website:
       - section: misc
         contents:
           - misc/behavioral-questions.ipynb
+          - misc/classify-tweets.ipynb
           - misc/dictionary-learning.ipynb
           - misc/experience-notes.ipynb
           - misc/product-sense-case-study-framework.ipynb
