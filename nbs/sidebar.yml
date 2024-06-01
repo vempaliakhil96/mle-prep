@@ -108,6 +108,7 @@ website:
           - misc/experience-notes.ipynb
           - misc/product-sense-case-study-framework.ipynb
           - misc/resources.ipynb
+          - misc/titanic-prediction.ipynb
       - section: ml-system-design
         contents:
           - ml-system-design/estimation-helpers.ipynb
