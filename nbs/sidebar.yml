@@ -66,6 +66,7 @@ website:
             contents:
               - coding-problems/heaps/lc-215-kth-largest-element-in-array.ipynb
               - coding-problems/heaps/lc-23-merge-k-sorted-lists.ipynb
+              - coding-problems/heaps/lc-2542-maximum-subsequence-score.ipynb
               - coding-problems/heaps/lc-295-find-median-from-data-stream.ipynb
               - coding-problems/heaps/lc-373-find-k-pairs-with-smallest-sums.ipynb
               - coding-problems/heaps/lc-502-ipo.ipynb
