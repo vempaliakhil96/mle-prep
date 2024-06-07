@@ -5,6 +5,11 @@ repos:
       - id: nbdev_clean
   - repo: local
     hooks:
+      - id: nbdev_export
+        name: nbdev export
+        entry: nbdev_export
+        language: system
+        pass_filenames: false
       - id: nbdev_readme
         name: nbdev readme
         entry: nbdev_readme
