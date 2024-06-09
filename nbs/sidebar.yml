@@ -102,7 +102,7 @@ website:
       - section: low-level-design
         contents:
           - low-level-design/cache.ipynb
-          - low-level-design/token-bucket-rate-limiter.ipynb
+          - low-level-design/rate-limiter.ipynb
       - section: makemore
         contents:
           - makemore/bigram.ipynb
