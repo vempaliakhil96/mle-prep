@@ -9,6 +9,7 @@ from abc import ABC, abstractmethod
 import time
 
 # %% ../nbs/low-level-design/rate-limiter.ipynb 3
+# | echo: true
 class RateLimiter(ABC):
 
     def __init__(
@@ -38,6 +39,7 @@ class RateLimiter(ABC):
         return time.time()
 
 # %% ../nbs/low-level-design/rate-limiter.ipynb 4
+# | echo: true
 class SlidingWindowRateLimiter(RateLimiter):
     def __init__(
         self, time_window: int = float("inf"), num_requests: int = float("inf")
@@ -58,6 +60,7 @@ class SlidingWindowRateLimiter(RateLimiter):
         return str(self.user_id_map)
 
 # %% ../nbs/low-level-design/rate-limiter.ipynb 5
+# | echo: true
 class TokenBucketRateLimiter(RateLimiter):
     def __init__(
         self, time_window: int = float("inf"), num_requests: int = float("inf")

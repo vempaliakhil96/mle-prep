@@ -4,10 +4,10 @@
 __all__ = ['DoublyLinkedListNode', 'DoublyLinkedList', 'Storage', 'EvictionPolicy', 'LRUPolicy', 'Cache']
 
 # %% ../nbs/low-level-design/cache.ipynb 2
-# | code_fold: true
 from abc import abstractmethod, ABC
 
 # %% ../nbs/low-level-design/cache.ipynb 4
+# | echo: true
 class DoublyLinkedListNode:
     def __init__(
         self,
@@ -55,6 +55,7 @@ class DoublyLinkedList:
         return self.__str__()
 
 # %% ../nbs/low-level-design/cache.ipynb 6
+# | echo: true
 class Storage:
     def __init__(self, capacity):
         self.capacity = capacity
@@ -75,6 +76,7 @@ class Storage:
         self.mapp.pop(key)
 
 # %% ../nbs/low-level-design/cache.ipynb 8
+# | echo: true
 class EvictionPolicy(ABC):
     @abstractmethod
     def key_accessed(self, key: str):
@@ -108,6 +110,7 @@ class LRUPolicy(EvictionPolicy):
         return node.value
 
 # %% ../nbs/low-level-design/cache.ipynb 10
+# | echo: true
 class Cache:
     def __init__(self, capacity: int):
         self.capacity = capacity
